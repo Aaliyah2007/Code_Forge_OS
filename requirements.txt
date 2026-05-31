@@ -1,0 +1,9 @@
+streamlit
+requests
+networkx
+pandas
+numpy
+supabase
+Groq
+PyPDF2
+python-dotenv
